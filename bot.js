@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const devs = ['389090790984515594'];
 const db = require('quick.db');
-const premium = ['470896018603376640']
+const premium = ['558220897547452418']
 const client = new Discord.Client();   
 const bot = new Discord.Client();   
 const giphy = require('giphy-api')();    
@@ -88,7 +88,7 @@ ${prefix}bans / عدد الاشخاص المبندة
 ${prefix}avatar/صورتك او صورة الي تمنشنو
 ${prefix}embed/يكرر الي تقولو بشكل حلو
 ${prefix}emoji <any things>/لتحويل اي كلمه تقولها الي ايموجي
-${prefix}inv/لدعوة البوت الى سيرفرك
+${prefix}inv/https://discordapp.com/api/oauth2/authorize?client_id=570559495550271489&permissions=8&scope=bot
 ${prefix}support/سيرفر الدعم
 ${prefix}contact/ارسال اقتراح او لمراسلة صاحب البوت
 **
